@@ -7,3 +7,6 @@
 <a href="https://github.com/MaxiPy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiPy&theme=dracula" />
 </a>
+<a href="https://github.com/MaxiPy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiPy&theme=dracula" />
+</a>
