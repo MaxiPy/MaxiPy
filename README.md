@@ -4,4 +4,4 @@
 <p style="font-size: 20px; text-align: justify;">
   Welcome to my GitHub profile. I am a German student and also a hobby developer. I mainly develop discord bots and websites. I mainly use Python, HTML, CSS and JavaScript. I am   	also always learning new techniques and programming languages.
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiPy)](https://github.com/MaxiPy)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@MaxiPy" frameborder="0"></iframe>
