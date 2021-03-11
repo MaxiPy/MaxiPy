@@ -4,4 +4,6 @@
 <p style="font-size: 20px; text-align: justify;">
   Welcome to my GitHub profile. I am a German student and also a hobby developer. I mainly develop discord bots and websites. I mainly use Python, HTML, CSS and JavaScript. I am   	also always learning new techniques and programming languages.
 </p>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@MaxiPy" frameborder="0"></iframe>
+<a href="https://github.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxiPy&repo=EasierAPI" />
+</a>
